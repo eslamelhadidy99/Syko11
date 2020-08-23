@@ -4,3 +4,6 @@ https://exchange.xforce.ibmcloud.com/vulnerabilities/187017
 
 
 https://vuldb.com/?id.160133
+
+
+https://www.fortinet.com/blog/threat-research/hundreds-of-urls-inside-microsoft-excel-spreads-new-dridex-trojan-variant
