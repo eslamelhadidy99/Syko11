@@ -11,3 +11,6 @@ https://www.fortinet.com/blog/threat-research/hundreds-of-urls-inside-microsoft-
 
 http://www.nucleusonline.com:8443/request/attachment/upload.asp
 
+
+https://issuu.com/invest-gate/docs/invest-gate_magazine__september_2020_issue/2?ff   
+
