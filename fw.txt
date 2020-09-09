@@ -1,12 +1,14 @@
- 
-Thanks to check this software lenovo power manager for ThinkPadT460s  &   Lenovo ThinkPad T460s -Synaptics Touchpad Driver 
+Name: setup.exe
+Size: 536064 bytes (0 MB)
 
-(Also check URLs:  
+SHA256: D0453EBF2602FE9830103DF9946162560578C4D8F2CCD6C31A5E67E9D1AE23B6
 
-https://support.lenovo.com/us/en/downloads/ds541411/  
+-----------------------
+----------------------
+Checksum information
+---------------------------
+Name: BassCapturesolution.msi
+Size: 22887424 bytes (21 MB)
 
-
-,      https://support.lenovo.com/us/en/downloads/ds539638/ 
-
-,  https://drivers.softpedia.com/get/KEYBOARD-and-MOUSE/Synaptics/Lenovo-ThinkPad-T460s-Synaptics-Touchpad)
+SHA256: 3C2042E71E4474A8E4518AB2C6A4ACB14A4D577B4E66BD4256FE5CB63B98924F
 
