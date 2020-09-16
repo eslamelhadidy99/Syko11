@@ -1,6 +1,22 @@
-
-
-D0453EBF2602FE9830103DF9946162560578C4D8F2CCD6C31A5E67E9D1AE23B6
-
-3C2042E71E4474A8E4518AB2C6A4ACB14A4D577B4E66BD4256FE5CB63B98924F
+Dears,
+       Kindly be noted that we have detected malicious mails from two different sender” acc.sj@sjmarine.co[.]kr , choi.jy@jinyangshipping.co[.]kr ”. These mails contain a malicious attachment with a Lokibot malware which is an information stealer malware that collects data from most widely used web browsers, FTP, email clients and over a hundred software tools installed on the infected machine, Force point action is blocked
+     
+So we need your assistance to block below IOCs, on different security layers:
+ 
+Sender Address on Force point	Hashes on PA Traps
+sjmarine.co[.]kr	aae0ef0ce90e89a54da3ef3e280724bdc6342f17b7dbf43eeeac56119d69cc4e
+barkouky.com[.]eg	fcc330512f67776c3fa6dce73dab6a3628496fbd8f43f59011ec02de166ad9ea
+jinyangshipping.co[.]kr	f59276c6c46d5e0d59b03a576e05ad0ab222dccf2a94dcf79f412ffafaefb8e2
+qlt.com[.]my	
+-------------------------------------------------------------------------------------------
+Dears ,
+ 
+    Kindly be noted that we have detected  malicious mail from this sender (support@irsatechnology[.]ir  ) with malicious attachment. It sent to only one user and Forcepoint action is Delivered.
+ 
+ We need your assistance to block below IOCs, on different security layers:
+ 
+Force point	IPs on Fortigate DC & DR	Proxy	Hash
+irsatechnology[.]ir	185.13.231.12	api.ipify.org	6561c96fd2a5ab35a3b119dc9f841af104380bcefb52996e9f1b9239e9a0f13d
+		smtp.yandex.ru	d04d2e8fcb5d90e429cec1329b584f0f7caf1961546aa00fe9a23f1bb3da6d25
+------------------------------------------------------------------------------------------
 
