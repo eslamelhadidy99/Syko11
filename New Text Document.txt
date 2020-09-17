@@ -1,10 +1,3 @@
-    Kindly be noted that we have detected malicious mails from two different sender” soraya@nisshinstc[.]com , noman.merchandiser@labhgroup[.]com  ”. These mails contain malicious attachments, it sent to multiple internal users and Force point action is blocked
-    
-So we need your assistance to block below IOCs, on different security layers:
- 
-Sender Address on Force point	Hashes on PA Traps
-nisshinstc[.]com	66530a1581a5f0c92953965adabb1f36557c51f5151667fecafd59c0fa3331ae
-gglobal.in	71bd7aadf01032eb032391bf01842f0f1ae0ffe053c325825bd11a61f6dc4877
-labhgroup.com	714a74dda5b49a2990bb873128fb84f4cfdf36ac9fde159650866db8cf08c657
-etacetech.com	
+   	
 
+   
