@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<ioc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="51508e48-8d2f-435b-ad66-00b5bdea6e8c" last-modified="2020-09-18T10:00:46" xmlns="http://schemas.mandiant.com/2010/ioc">
+  <short_description>Operation powerFall</short_description>
+  <description>gathered IOCs for group Operation powerFall	</description>
+  <authored_by>Eslam</authored_by>
+  <authored_date>2020-09-18T09:49:54</authored_date>
+  <links />
+  <definition>
+    <Indicator operator="OR" id="e8e9db04-d895-4f60-969c-98b94877fead">
+      <IndicatorItem id="e4b5455c-6a18-450b-ba93-59b8e6da5e53" condition="is">
+        <Context document="FileItem" search="FileItem/Sha256sum" type="mir" />
+        <Content type="string">7765F836D2D049127A25376165B1AC43CD109D8B9D8C5396B8DA91ADC61ECCB1</Content>
+      </IndicatorItem>
+      <IndicatorItem id="60e3ebfc-d759-44e6-b066-9cab032f4515" condition="is">
+        <Context document="FileItem" search="FileItem/Sha256sum" type="mir" />
+        <Content type="string">D02632CFFC18194107CC5BF76AECA7E87E9082FED64A535722AD4502A4D51199</Content>
+      </IndicatorItem>
+      <IndicatorItem id="2b36490b-6003-4692-bfca-32da0754da13" condition="is">
+        <Context document="FileItem" search="FileItem/Sha256sum" type="mir" />
+        <Content type="string">7577E42177ED7FC811DE4BC854EC226EB037F797C3B114E163940A86FD8B078B</Content>
+      </IndicatorItem>
+      <IndicatorItem id="13a59a5d-6205-4807-b6ee-7345600cd3c2" condition="is">
+        <Context document="FileItem" search="FileItem/Sha256sum" type="mir" />
+        <Content type="string">81D07CAE45CAF27CBB9A1717B08B3AB358B647397F08A6F9C7652D00DBF2AE24</Content>
+      </IndicatorItem>
+      <IndicatorItem id="05f03e0e-a52c-41a9-8334-a2342bafa475" condition="is">
+        <Context document="FileItem" search="FileItem/Md5sum" type="mir" />
+        <Content type="md5">B06F1F2D3C016D13307BC7CE47C90594</Content>
+      </IndicatorItem>
+      <IndicatorItem id="77450ae1-aeb3-4f29-96b2-3d0d7abc0c80" condition="is">
+        <Context document="FileItem" search="FileItem/Md5sum" type="mir" />
+        <Content type="md5">5877EAECA1FE8A3A15D6C8C5D7FA240B</Content>
+      </IndicatorItem>
+      <IndicatorItem id="3d0e5359-4045-42d9-aef2-1402ead04306" condition="is">
+        <Context document="FileItem" search="FileItem/Md5sum" type="mir" />
+        <Content type="md5">B72731B699922608FF3844CCC8FC36B4</Content>
+      </IndicatorItem>
+      <IndicatorItem id="2060c8ae-8d41-4115-a778-b29ee9b7dbae" condition="is">
+        <Context document="FileItem" search="FileItem/Md5sum" type="mir" />
+        <Content type="md5">E01254D7AF1D044E555032E1F78FF38F</Content>
+      </IndicatorItem>
+      <IndicatorItem id="7707e96f-529f-443e-a1c0-2d18e359f545" condition="contains">
+        <Context document="UrlHistoryItem" search="UrlHistoryItem/URL" type="mir" />
+        <Content type="string">www.static-cdn1.com/update.zip</Content>
+      </IndicatorItem>
+    </Indicator>
+  </definition>
+</ioc>
