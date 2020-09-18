@@ -1,3 +1,11 @@
-   	
+Dears,
+       Kindly be noted that we have detected malicious mails from sender ”info@palladium-apartments.com”. The mail contain malicious attachments with a Loki bot which is trojan-type malware designed to infiltrate systems and collect a wide range of information and delivered through malicious spam campaigns. the payload has been seen to be delivered through executable is compressed inside an archive, which is attached to the e-mail. it sent to multiple internal users and Force point action is blocked.
 
-   
+  
+So we need your assistance to block below IOCs, on different security layers:
+ 
+Sender Address on Force point	Hashes on PA Traps
+palladium-apartments[.]com	9f08857d904a2ba7a8226062a53b12b8b17352e1c0844906ab07a03d2b76585f
+mflogistics-my[.]com	f2b07f3f15bab8c3ef47969ab6463cf984cca6f1e21cb6f40c4487a3e47f2142
+ 
+
