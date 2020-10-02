@@ -1,2 +1,11 @@
-
-https://wp.hybrid-analysis.com/sample/08654a4a0186de65e141f9d0a4d6cd9d9d3826190f43cf9b2ae5f7d616df75ca?environmentId=120 
+Dears ,
+ 
+Kindly be noted that we have detected malicious mail from this mail sender(dmi01@daemyung-int[.]com ) with malicious attachment contains malware “agent tesla” which can be used by attackers to spy on victims, allowing them to see everything that has been typed in supported programs and web-browsers. It sent to only one user and Forcepoint action is blocked.
+ 
+  
+We need your assistance to block below IOCs, on different security layers:
+ 
+Force point	Hashes on PA
+daemyung-int.com	861870190e92926a20a9ad9a5c23295b122a812427918d7ba02e4e9ec3cb49e8
+vcu0.802.elno.m	40ebb3d580358ecb3e79734349f0f5d4683cb907adad005c467a06f72a6110e2
+ 
