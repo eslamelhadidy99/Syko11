@@ -1,4 +1,1 @@
-World Check Daily List
-                https://www.world-check.com/premium-dynamic-download/?lag=DAY&keyword=BYMNS&keyword=BRBCB&keyword=BRPRORJ&keyword=CANS&keyword=UNSTR&keyword=PBC-ETIM&keyword=PRCSR-WC&keyword=HKGAZ&keyword=RBI-SANC&keyword=DTTOT&keyword=JPJETRO&keyword=KESEL&keyword=LBISF&keyword=PKNACTA&keyword=RUCBR&keyword=RWPPA&keyword=SAMOI&keyword=RSVSB&keyword=TWMOJ-INT&keyword=THAMLO&keyword=THAMLO-SANC&keyword=TNCNLT&keyword=TRCA&keyword=TRCOM&keyword=TRMOI&keyword=UANSDC&keyword=AEDFSA&keyword=ZMACC&format=TSV-GZ
-                 World Check Deleted Daily list  
-                https://www.world-check.com/portal/Downloads/world-check-deleted-day-v2.csv.gz
+1
