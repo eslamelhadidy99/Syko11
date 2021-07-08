@@ -1,10 +1,1 @@
-
-Incident ID	Primary URL	Additional URL(s)
-EEZ-386052	https://andriod-apk.com/androidapk/app/1361091944/adib-egypt-tablet	
-NTH-629895	https://andriod-apk.com/androidapk/app/1361091944/adib-egypt-token	
-ALN-432652	https://android-apk-app.com/android/1361091944/adib-egypt-token	
-WEK-667428	https://android-apk-app.com/android/1233260589/adib-egypt-tablet	
-FZS-935865	https://android-top.com/am/app/adib_egypt	https://android-top.com/et/app/adib_egypt,https://android-top.com/app/ADIB_Egypt
-DLP-472487	https://android-apk-app.com/android/1263042975/adib-egypt-mobile-banking	
-KQR-857221	https://andriod-apk.com/androidapk/app/1440012755/masarify-3altayer	
-CRD-540898	https://www.99images.com/apps/ios-finance/1233260589	
+gg
