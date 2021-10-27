@@ -1,1 +1,11 @@
-3
+Safari:
+https://files02.tchspt.com/temp/SafariSetup.exe
+
+
+Opera:
+https://ftp.opera.com/pub/opera/desktop/80.0.4170.63/win/Opera_80.0.4170.63_Setup_x64.exe 
+
+Or
+
+https://net.geo.opera.com/opera/stable/windows?utm_tryagain=yes&amp;utm_source=opera.com_via_opera_com&amp;utm_medium=roc&amp;utm_campaign=(none)_via_opera_com_https&amp;utm_content=%2Fdownload&amp;http_referrer=https%3A%2F%2Fwww.opera.com%2Fdownload&amp;utm_site=opera_com&amp;&amp;utm_lastpage=opera.com/download 
+
