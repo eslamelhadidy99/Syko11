@@ -1,1 +1,8 @@
-v
+● 1bc44eef75779e3ca1eefb8ff5a64807dbc942b1e4a2672d77b9f6928d29259
+1 – Trojan.Killdisk
+● 0385eeab00e946a302b24a91dea4187c1210597b8e17cd9e2230450f5ece21
+da – Trojan.Killdisk
+● a64c3e0522fad787b95bfb6a30c3aed1b5786e69e88e023c062ec7e5cebf4d3
+e – Trojan.Killdisk
+● 4dc13bb83a16d4ff9865a51b3e4d24112327c526c1392e14d56f20d6f4eaf38
+2 – Ransomware
